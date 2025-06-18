@@ -1,4 +1,4 @@
-# ** Rain-alert Application **
+# Rain-alert Application
 
 ## About
 This application fetches the weather data from OpenWeatherMap API and sends an SMS alert if rain is forecasted in next 12 hours.
